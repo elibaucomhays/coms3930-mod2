@@ -1,7 +1,7 @@
 # coms3930-mod2
 
 <p align="center">
-  <img width="300" height="400" src="/finalprojectdemo.png">
+  <img width="300" height="400" src="/breadboard.jpg">
 </p>
 
 This readMe keeps it short with just the key information on usage. To read more, check out my [blog](https://www.notion.so/Interactive-Devices-7bde556273a6435181ae392104cf6105?pvs=4)!
